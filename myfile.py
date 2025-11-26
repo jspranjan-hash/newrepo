@@ -1,5 +1,6 @@
 a=int(input("enter a number"))
 b=int(input("Enter another number"))
-c=a+b
-print(c)
+c=int(input("enter third number"))
+d=c+a+b
+print(d)
 
